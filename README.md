@@ -2,7 +2,7 @@
 
 ## Autoren, Versionierung des Dokumentes
 
-   • Autoren: Marcello Calisto / Marco Berger
+   • Autoren: Altin Maliqaj / Patrik Pribela
    • Mail: altin.maliqaj@edu.tbz.ch / patrik.pribela@edu.tbz.ch
 
 
