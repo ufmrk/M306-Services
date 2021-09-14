@@ -1,6 +1,10 @@
-# M306-Services
+# Werkstattauftrag W07 Webmin
 
 ## Autoren, Versionierung des Dokumentes
+
+   • Autoren: Marcello Calisto / Marco Berger
+   • Mail: altin.maliqaj@edu.tbz.ch / patrik.pribela@edu.tbz.ch
+
 
 ## Einfuehrung 
    ### Beschreibung: Welche Funktionen wird der Service erfuellen
