@@ -7,8 +7,10 @@
    • Mail: altin.maliqaj@edu.tbz.ch / patrik.pribela@edu.tbz.ch
 - - -
 
-## Einfuehrung 
+## Einfuehrung
+In der folgenden Dokumentation ist die Installation, sowie Konfiguration samt allen Anforderungen dokumentiert.
    ### Beschreibung: Welche Funktionen wird der Service erfuellen
+   Webmin bietet eine graphische Oberfläche für Raspberry Pi Adminstratoren, welche das Betriebssystem gemäss Ihren    wünschen konfigurieren möchten. Webmin arbeitet relativ einfach. Mittels GUI wählt man die gewünschte                Konfiguration und im Hintergrund werden die textbasieren Konfigurationsdateien angepasst.
    ### Vorgesehener Zeitaufwand für die Realisierung
    ### Stolpersteine
 - - -
@@ -16,7 +18,7 @@
    ### Hardware (Materialliste, Funktionalitaet)
    ### Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Abhängigkeiten, Funktionalitaet)
 - - -
-## Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eine eigene Lösungswege realisieren)
+## Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eigene Lösungswege realisieren)
    ### Anweisungen verstaendlich und nachvollziehbar
    ### Keine fertigen Loesungsschritte aufzeigen
    ### Hilfestellung (Tipps, Quellen...)
