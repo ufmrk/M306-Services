@@ -28,7 +28,14 @@ Alle Kommandos, welche im Terminal des Raspberry Pis ausgeführt werden müssen,
 - - -
 ## Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandosund entsprechenden Outputs)
 - - -
-## Error-Handling 
+## Error-Handling
+Falls die Installation am Ende nicht ordnungsgemäss funktioniert, kann dies mehrere Gründe haben. Weiter unten finden Sie die gängigsten Fehler aufgelistet.
+### Allgemeine Schritte vor weiterem Debugging zwingend ausführen
+• Raspberry Pi neu starten
+• Prüfen, ob der Dienst der Anwendung läuft
+• Restriktionen im Netzwerk ausschliessen
+### Webmin vom gleichen Netz und anderem Gerät nicht erreichbar
+Falls das Web-Interface aus dem selben Netzwerk von einem anderen Gerät nicht erreichbar ist gilt es
 - - -
 ## Quellen
 
