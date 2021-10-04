@@ -2,17 +2,19 @@
 
 ## Autoren, Versionierung des Dokumentes
 
-   • Autoren: Altin Maliqaj / Patrik Pribela
+   • Autoren: Altin Maliqaj & Patrik Pribela
    
-   • Mail: altin.maliqaj@edu.tbz.ch / patrik.pribela@edu.tbz.ch
+   • Mail: altin.maliqaj@edu.tbz.ch | patrik.pribela@edu.tbz.ch
 - - -
 
 ## Einfuehrung
 In der folgenden Dokumentation ist die Installation, sowie Konfiguration samt allen Anforderungen von Webmin dokumentiert.
+Alle Kommandos, welche im Terminal des Raspberry Pis ausgeführt werden müssen, sind in der folgenden [Abbildung](img\cmd.png) einsehbar.
 
    ### Beschreibung: Welche Funktionen wird der Service erfuellen
-   Webmin bietet eine graphische Oberfläche für Raspberry Pi Adminstratoren, welche das Betriebssystem gemäss Ihren    wünschen konfigurieren möchten. Webmin arbeitet relativ einfach. Mittels GUI wählt man die gewünschte                Konfiguration und im Hintergrund werden die textbasieren Konfigurationsdateien angepasst.
+   Webmin bietet eine graphische Oberfläche für Raspberry Pi Adminstratoren, welche das Betriebssystem gemäss Ihren wünschen konfigurieren möchten. Webmin arbeitet relativ einfach. Mittels GUI wählt man die gewünschte Konfiguration und im Hintergrund werden die textbasieren Konfigurationsdateien angepasst.
    ### Vorgesehener Zeitaufwand für die Realisierung
+   Der Zeitaufwand beträgt unserer Schätzung nach 30 Minuten im Durchschnitt. Die Schätzung kann wegen Hardware-Build, Software-Version und Netzwerkanbindung abweichen.
    ### Stolpersteine
 - - -
 ## Benoetigte Hard- und Software
