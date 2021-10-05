@@ -12,7 +12,6 @@
 - [Werkstattauftrag W07 Webmin](#werkstattauftrag-w07-webmin)
   - [Autoren, Versionierung des Dokumentes](#autoren-versionierung-des-dokumentes)
   - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [- Quellen](#--quellen)
   - [Einführung](#einführung)
     - [Beschreibung: Welche Funktionen wird der Service erfüllen](#beschreibung-welche-funktionen-wird-der-service-erfüllen)
     - [Vorgesehener Zeitaufwand für die Realisierung](#vorgesehener-zeitaufwand-für-die-realisierung)
