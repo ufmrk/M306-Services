@@ -8,7 +8,27 @@
 
    • Version: 2.0 (Edition für Lernende)
 - - -
-
+## Inhaltsverzeichnis
+- [Werkstattauftrag W07 Webmin](#werkstattauftrag-w07-webmin)
+  - [Autoren, Versionierung des Dokumentes](#autoren-versionierung-des-dokumentes)
+  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
+  - [Einfuehrung](#einfuehrung)
+    - [Beschreibung: Welche Funktionen wird der Service erfuellen](#beschreibung-welche-funktionen-wird-der-service-erfuellen)
+    - [Vorgesehener Zeitaufwand für die Realisierung](#vorgesehener-zeitaufwand-für-die-realisierung)
+    - [Stolpersteine](#stolpersteine)
+  - [Benoetigte Hard- und Software](#benoetigte-hard--und-software)
+    - [Hardware (Materialliste, Funktionalitaet)](#hardware-materialliste-funktionalitaet)
+    - [Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Abhängigkeiten, Funktionalitaet)](#software-anforderungen-firmware-os-image-ergaenzende-sw-packages-abhängigkeiten-funktionalitaet)
+  - [Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eigene Lösungswege realisieren)](#installationsanleitung-didaktisch-reduzierte-anleitung-lernende-sollen-eigene-lösungswege-realisieren)
+    - [Anweisungen verstaendlich und nachvollziehbar](#anweisungen-verstaendlich-und-nachvollziehbar)
+    - [Keine fertigen Loesungsschritte aufzeigen](#keine-fertigen-loesungsschritte-aufzeigen)
+    - [Hilfestellung (Tipps, Quellen...)](#hilfestellung-tipps-quellen)
+  - [Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandosund entsprechenden Outputs)](#qualitaetskontrolle-pruefen-der-funktionalitaet-mit-ablauf-von-kommandosund-entsprechenden-outputs)
+  - [Error-Handling](#error-handling)
+    - [Allgemeine Schritte vor weiterem Debugging zwingend ausführen](#allgemeine-schritte-vor-weiterem-debugging-zwingend-ausführen)
+    - [Webmin vom gleichen Netz und anderem Gerät nicht erreichbar](#webmin-vom-gleichen-netz-und-anderem-gerät-nicht-erreichbar)
+  - [Quellen](#quellen)
+  - [OpenSource Lizenz](#opensource-lizenz)
 ## Einfuehrung
 In der folgenden Dokumentation ist die Installation, sowie Konfiguration samt allen Anforderungen von Webmin dokumentiert.
 Alle Kommandos, welche im Terminal des Raspberry Pis ausgeführt werden müssen, sind in der folgenden [Abbildung](/img/cmd.png) einsehbar.
@@ -28,7 +48,12 @@ Alle Kommandos, welche im Terminal des Raspberry Pis ausgeführt werden müssen,
 - - -
 ## Benoetigte Hard- und Software
    ### Hardware (Materialliste, Funktionalitaet)
+   • Raspberry PI<br>
+   • Monitor + Peripherie (Maus und Tastatur)<br>
+   • ggf. Netzwerkperipherie (Kabel, Switch)
    ### Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Abhängigkeiten, Funktionalitaet)
+   • Neuste OS Version von Raspberry PI inkl. Updates<br>
+   • Neuste Version von Webmin<br>
 - - -
 ## Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eigene Lösungswege realisieren)
    ### Anweisungen verstaendlich und nachvollziehbar
