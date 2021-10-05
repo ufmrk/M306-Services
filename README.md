@@ -12,6 +12,7 @@
 - [Werkstattauftrag W07 Webmin](#werkstattauftrag-w07-webmin)
   - [Autoren, Versionierung des Dokumentes](#autoren-versionierung-des-dokumentes)
   - [Inhaltsverzeichnis](#inhaltsverzeichnis)
+  - [- OpenSource Lizenz](#--opensource-lizenz)
   - [Einfuehrung](#einfuehrung)
     - [Beschreibung: Welche Funktionen wird der Service erfuellen](#beschreibung-welche-funktionen-wird-der-service-erfuellen)
     - [Vorgesehener Zeitaufwand für die Realisierung](#vorgesehener-zeitaufwand-für-die-realisierung)
@@ -27,6 +28,7 @@
     - [Webmin vom gleichen Netz und anderem Gerät nicht erreichbar](#webmin-vom-gleichen-netz-und-anderem-gerät-nicht-erreichbar)
   - [Quellen](#quellen)
   - [OpenSource Lizenz](#opensource-lizenz)
+---
 ## Einfuehrung
 In der folgenden Dokumentation ist die Installation, sowie Konfiguration samt allen Anforderungen von Webmin dokumentiert.
 Alle Kommandos, welche im Terminal des Raspberry Pis ausgeführt werden müssen, sind in der folgenden [Abbildung](/img/cmd.png) einsehbar.
