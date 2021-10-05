@@ -74,7 +74,7 @@ Nun im Verzeichnis das Setup ausführen:<br>
 `sudo ./setup.sh`
 ### Webmin installieren
 Sämtliche Einstellungen können auf Default gesetzt und durchgeklickt werden. Beim Anmeldenamen kann man eines auswählen oder auch auslassen. Beim Auslassen wird dann einfach der Name "admin" generiert. Was jedoch wichtig ist, ist dass man ein Passwort festlegt.<br>
-[Adminpasswort](../img/adminpasswort.png)
+[Adminpasswort](../img/Adminpasswort.png)
 
 - - -
 ## Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandos und entsprechenden Outputs)
