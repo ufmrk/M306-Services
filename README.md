@@ -21,7 +21,7 @@
     - [Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Abhängigkeiten, Funktionalitaet)](#software-anforderungen-firmware-os-image-ergaenzende-sw-packages-abhängigkeiten-funktionalitaet)
   - [Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eigene Lösungswege realisieren)](#installationsanleitung-didaktisch-reduzierte-anleitung-lernende-sollen-eigene-lösungswege-realisieren)
     - [Hilfestellung (Tipps, Quellen...)](#hilfestellung-tipps-quellen)
-  - [Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandosund entsprechenden Outputs)](#qualitaetskontrolle-pruefen-der-funktionalitaet-mit-ablauf-von-kommandosund-entsprechenden-outputs)
+  - [Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandos und entsprechenden Outputs)](#qualitaetskontrolle-pruefen-der-funktionalitaet-mit-ablauf-von-kommandos-und-entsprechenden-outputs)
   - [Error-Handling](#error-handling)
     - [Allgemeine Schritte vor weiterem Debugging zwingend ausführen](#allgemeine-schritte-vor-weiterem-debugging-zwingend-ausführen)
     - [Webmin vom gleichen Netz und anderem Gerät nicht erreichbar](#webmin-vom-gleichen-netz-und-anderem-gerät-nicht-erreichbar)
@@ -56,11 +56,14 @@ Alle Kommandos, welche im Terminal des Raspberry Pis ausgeführt werden müssen,
 • Geeignete Webmin version auswählen mit folgender [Quelle](https://sourceforge.net/projects/webadmin/files/webmin/)<br>
 • Webmin Paket herunterladen und entpacken<br>
 • Mittels Setup-Skript installieren
+### Hilfestellung (Tipps, Quellen...)
+In diesem Abschnitt stellen wir diverse Quellen zur Verfügung, welche als Hilfe bei der Installation gebraucht werden können.
 
-   ### Hilfestellung (Tipps, Quellen...)
-   
+[Beispiele zu Tar Kommandos](https://www.tecmint.com/18-tar-command-examples-in-linux/)<br>
+[Webmin Versionierung](https://sourceforge.net/projects/webadmin/files/webmin/)<br>
+[Webmin Wiki](http://doxfer.webmin.com/Webmin/Main_Page)
 - - -
-## Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandosund entsprechenden Outputs)
+## Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandos und entsprechenden Outputs)
 - - -
 ## Error-Handling
 Falls die Installation am Ende nicht ordnungsgemäss funktioniert, kann dies mehrere Gründe haben. Weiter unten finden Sie die gängigsten Fehler aufgelistet.
