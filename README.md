@@ -33,9 +33,10 @@ Falls die Installation am Ende nicht ordnungsgemäss funktioniert, kann dies meh
 ### Allgemeine Schritte vor weiterem Debugging zwingend ausführen
 • Raspberry Pi neu starten
 • Prüfen, ob der Dienst der Anwendung läuft
+• Netzwerkverbindung prüfen
 • Restriktionen im Netzwerk ausschliessen
 ### Webmin vom gleichen Netz und anderem Gerät nicht erreichbar
-Falls das Web-Interface aus dem selben Netzwerk von einem anderen Gerät nicht erreichbar ist gilt es
+Falls das Web-Interface aus dem selben Netzwerk von einem anderen Gerät nicht erreichbar ist gilt es zu prüfen, ob das Web-Interface vom *localhost* aus erreichbar ist. Falls dies der Fall ist, kann man davon ausgehen, dass über den die Kommunikation im Netzwerk Port 10000 nicht korrekt funktioniert. Hierbei ist ein Portscan hilfreich. Im Falle, dass auch hier das Web-Interface nicht erreichbar ist, kann man von einem Fehler der Anwendung ausgehen und eine neue Installation durchführen.
 - - -
 ## Quellen
 
