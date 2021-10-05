@@ -12,7 +12,7 @@
 - [Werkstattauftrag W07 Webmin](#werkstattauftrag-w07-webmin)
   - [Autoren, Versionierung des Dokumentes](#autoren-versionierung-des-dokumentes)
   - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [- OpenSource Lizenz](#--opensource-lizenz)
+  - [- Quellen](#--quellen)
   - [Einfuehrung](#einfuehrung)
     - [Beschreibung: Welche Funktionen wird der Service erfuellen](#beschreibung-welche-funktionen-wird-der-service-erfuellen)
     - [Vorgesehener Zeitaufwand für die Realisierung](#vorgesehener-zeitaufwand-für-die-realisierung)
@@ -27,11 +27,10 @@
     - [Allgemeine Schritte vor weiterem Debugging zwingend ausführen](#allgemeine-schritte-vor-weiterem-debugging-zwingend-ausführen)
     - [Webmin vom gleichen Netz und anderem Gerät nicht erreichbar](#webmin-vom-gleichen-netz-und-anderem-gerät-nicht-erreichbar)
   - [Quellen](#quellen)
-  - [OpenSource Lizenz](#opensource-lizenz)
 ---
 ## Einfuehrung
 In der folgenden Dokumentation ist die Installation, sowie Konfiguration samt allen Anforderungen von Webmin dokumentiert.
-Alle Kommandos, welche im Terminal des Raspberry Pis ausgeführt werden müssen, sind in der folgenden [Abbildung](/img/cmd.png) einsehbar.
+Alle Kommandos, welche im Terminal des Raspberry Pis ausgeführt werden müssen, sind in der folgenden [Abbildung](../img/cmd.png) einsehbar.
 
    ### Beschreibung: Welche Funktionen wird der Service erfuellen
    Webmin bietet eine graphische Oberfläche für Raspberry Pi Adminstratoren, welche das Betriebssystem gemäss Ihren wünschen konfigurieren möchten. Webmin arbeitet relativ einfach. Mittels GUI wählt man die gewünschte Konfiguration und im Hintergrund werden die textbasieren Konfigurationsdateien angepasst.
@@ -86,7 +85,3 @@ https://www.tecmint.com/18-tar-command-examples-in-linux/<br>
 https://sourceforge.net/projects/webadmin/files/webmin/
 http://doxfer.webmin.com/Webmin/Main_Page
 - - -
-## OpenSource Lizenz
-![copyright](https://camo.githubusercontent.com/bf63a077023c34e5c61916eea81a068b4e44c86d51c08b8db9d2335a0b9af3b6/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d6e632d73612f332e302f63682f38387833312e706e67)
-
-Dieses Werk ist lizenziert unter einer [Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Schweiz Lizenz](http://creativecommons.org/licenses/by-nc-sa/3.0/ch/)
