@@ -18,6 +18,10 @@ Alle Kommandos, welche im Terminal des Raspberry Pis ausgeführt werden müssen,
    ### Vorgesehener Zeitaufwand für die Realisierung
    Der Zeitaufwand beträgt unserer Schätzung nach 30 Minuten im Durchschnitt. Die Schätzung kann wegen Hardware-Build, Software-Version und Netzwerkanbindung abweichen.
    ### Stolpersteine
+   Bei folgendem Projekt können mehrere **Stolpersteine** aufkommen, welche uns an einer erfolgreichen Umsetzung hindern können oder diese zumindest erschweren können. Um den gägnigsten Stolpersteinen aus dem Weg gehen zu können, wurden die gängigsten **Stolpersteine** aufgelistet.<br><br>
+   • Veraltete Version des Raspberry Pi<br>
+Falls sich der Raspberry Pi nicht aktualisieren lässt und/oder die Hardware veraltet ist, kann (muss nicht!) es vorkommen, dass es zu Problemen bezüglich Kompatibilität führt. Wir empfehlen in einem solchen Fall eine virtuelle Maschine zu erstellen und das Raspbian OS aufzusetzen.
+   •<br> 
 - - -
 ## Benoetigte Hard- und Software
    ### Hardware (Materialliste, Funktionalitaet)
@@ -33,9 +37,9 @@ Alle Kommandos, welche im Terminal des Raspberry Pis ausgeführt werden müssen,
 ## Error-Handling
 Falls die Installation am Ende nicht ordnungsgemäss funktioniert, kann dies mehrere Gründe haben. Weiter unten finden Sie die gängigsten Fehler aufgelistet.
 ### Allgemeine Schritte vor weiterem Debugging zwingend ausführen
-• Raspberry Pi neu starten
-• Prüfen, ob der Dienst der Anwendung läuft
-• Netzwerkverbindung prüfen
+• Raspberry Pi neu starten<br>
+• Prüfen, ob der Dienst der Anwendung läuft<br>
+• Netzwerkverbindung prüfen<br>
 • Restriktionen im Netzwerk ausschliessen
 ### Webmin vom gleichen Netz und anderem Gerät nicht erreichbar
 Falls das Web-Interface aus dem selben Netzwerk von einem anderen Gerät nicht erreichbar ist gilt es zu prüfen, ob das Web-Interface vom *localhost* aus erreichbar ist. Falls dies der Fall ist, kann man davon ausgehen, dass über den die Kommunikation im Netzwerk Port 10000 nicht korrekt funktioniert. Hierbei ist ein Portscan hilfreich. Im Falle, dass auch hier das Web-Interface nicht erreichbar ist, kann man von einem Fehler der Anwendung ausgehen und eine neue Installation durchführen.
