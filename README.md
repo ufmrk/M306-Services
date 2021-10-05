@@ -20,8 +20,6 @@
     - [Hardware (Materialliste, Funktionalitaet)](#hardware-materialliste-funktionalitaet)
     - [Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Abhängigkeiten, Funktionalitaet)](#software-anforderungen-firmware-os-image-ergaenzende-sw-packages-abhängigkeiten-funktionalitaet)
   - [Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eigene Lösungswege realisieren)](#installationsanleitung-didaktisch-reduzierte-anleitung-lernende-sollen-eigene-lösungswege-realisieren)
-    - [Anweisungen verstaendlich und nachvollziehbar](#anweisungen-verstaendlich-und-nachvollziehbar)
-    - [Keine fertigen Loesungsschritte aufzeigen](#keine-fertigen-loesungsschritte-aufzeigen)
     - [Hilfestellung (Tipps, Quellen...)](#hilfestellung-tipps-quellen)
   - [Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandosund entsprechenden Outputs)](#qualitaetskontrolle-pruefen-der-funktionalitaet-mit-ablauf-von-kommandosund-entsprechenden-outputs)
   - [Error-Handling](#error-handling)
@@ -43,9 +41,7 @@ Alle Kommandos, welche im Terminal des Raspberry Pis ausgeführt werden müssen,
    Falls sich der Raspberry Pi nicht aktualisieren lässt und/oder die Hardware veraltet ist, kann (muss nicht!) es vorkommen, dass es zu Problemen bezüglich Kompatibilität führt. Wir empfehlen in einem solchen Fall eine virtuelle Maschine zu erstellen und das Raspbian OS aufzusetzen.<br>
    **• Restriktionen des (TBZ) Netzwerks**<br>
    Da öffentliche Netzwerke oft viele Sicherheitsmassnahmen eingepflegt erhalten, besteht die Möglichkeit, dass immer wieder Ports, welche essentiell für eine Anwendung sind, blockiert werden. Es gilt die Empfehlung bei Home Office Möglichkeit diese zu nutzen und aus dem Heimnetzwerk aus zu arbeiten.<br>
-   **•**<br>
-
-- - -
+   - - -
 ## Benoetigte Hard- und Software
    ### Hardware (Materialliste, Funktionalitaet)
    • Raspberry PI<br>
@@ -56,9 +52,13 @@ Alle Kommandos, welche im Terminal des Raspberry Pis ausgeführt werden müssen,
    • Neuste Version von Webmin<br>
 - - -
 ## Installationsanleitung (Didaktisch reduzierte Anleitung. Lernende sollen eigene Lösungswege realisieren)
-   ### Anweisungen verstaendlich und nachvollziehbar
-   ### Keine fertigen Loesungsschritte aufzeigen
+• Paketliste aktualisieren<br>
+• Geeignete Webmin version auswählen mit folgender [Quelle](https://sourceforge.net/projects/webadmin/files/webmin/)<br>
+• Webmin Paket herunterladen und entpacken<br>
+• Mittels Setup-Skript installieren
+
    ### Hilfestellung (Tipps, Quellen...)
+   
 - - -
 ## Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandosund entsprechenden Outputs)
 - - -
