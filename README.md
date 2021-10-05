@@ -64,6 +64,10 @@ In diesem Abschnitt stellen wir diverse Quellen zur Verfügung, welche als Hilfe
 [Webmin Wiki](http://doxfer.webmin.com/Webmin/Main_Page)
 - - -
 ## Qualitaetskontrolle (Pruefen der Funktionalitaet mit Ablauf von Kommandos und entsprechenden Outputs)
+• Aktivität des Webmin Dienstes prüfen<br>
+`service webmin status`<br>
+• Erreichbarkeit des Web-Interface im Browser prüfen<br>
+`https://"hostname":10000/`<br>
 - - -
 ## Error-Handling
 Falls die Installation am Ende nicht ordnungsgemäss funktioniert, kann dies mehrere Gründe haben. Weiter unten finden Sie die gängigsten Fehler aufgelistet.
@@ -76,7 +80,9 @@ Falls die Installation am Ende nicht ordnungsgemäss funktioniert, kann dies meh
 Falls das Web-Interface aus dem selben Netzwerk von einem anderen Gerät nicht erreichbar ist gilt es zu prüfen, ob das Web-Interface vom *localhost* aus erreichbar ist. Falls dies der Fall ist, kann man davon ausgehen, dass über den die Kommunikation im Netzwerk Port 10000 nicht korrekt funktioniert. Hierbei ist ein Portscan hilfreich. Im Falle, dass auch hier das Web-Interface nicht erreichbar ist, kann man von einem Fehler der Anwendung ausgehen und eine neue Installation durchführen.
 - - -
 ## Quellen
-
+https://www.tecmint.com/18-tar-command-examples-in-linux/<br>
+https://sourceforge.net/projects/webadmin/files/webmin/
+http://doxfer.webmin.com/Webmin/Main_Page
 - - -
 ## OpenSource Lizenz
 ![copyright](https://camo.githubusercontent.com/bf63a077023c34e5c61916eea81a068b4e44c86d51c08b8db9d2335a0b9af3b6/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d6e632d73612f332e302f63682f38387833312e706e67)
